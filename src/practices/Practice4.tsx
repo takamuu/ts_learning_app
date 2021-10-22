@@ -13,4 +13,4 @@ export const Practice4 = () => {
       <button onClick={onClickPractice}>練習問題４を実行</button>
     </div>
   )
-}s
+}
