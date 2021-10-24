@@ -1,3 +1,5 @@
+import React from "react";
+
 export const Practice2 = () => {
 
   const getTotalFee = (num: number): number => {
